@@ -1,1 +1,11 @@
 SELAMLAR.........
+
+1-Git depo başlat: git init
+
+2-Değişiklikleri ekle: git add .
+
+3-Commit et: git commit -m "Commit mesajı"
+
+4-GitHub'a uzak bağlantı ekle: git remote add origin https://github.com/kullaniciAdi/my-project.git
+
+5-GitHub'a push et: git push -u origin master veya git push -u origin main
